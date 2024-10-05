@@ -1,4 +1,3 @@
-// src/exchange-rate/entities/transaction.entity.ts
 import {
     Entity,
     Column,

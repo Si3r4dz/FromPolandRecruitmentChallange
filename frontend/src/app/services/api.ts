@@ -1,4 +1,3 @@
-// src/app/services/api.ts
 import axios, { AxiosError } from 'axios';
 
 const API_BASE_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
