@@ -1,5 +1,4 @@
 "use Client"
-
 import React from 'react';
 import ExchangeRate from './components/ExchangeRate';
 import CurrencyConverter from './components/CurrencyConverter';
